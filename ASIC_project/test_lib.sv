@@ -32,6 +32,7 @@ class test_mem_rd extends tl_uvc_base_test;
 		phase.drop_objection(this);
 
 	endtask
+	/*ksdjdj*/
 
 endclass
 
@@ -52,7 +53,7 @@ class test_mem_wr extends tl_uvc_base_test;
 		fork
 		mem_wr_seq.start(env.rc_agent_i.sqr);
 		join
-		phase.drop_objection(this);
+		phase.drop_objection(this); 
 
 	endtask
 

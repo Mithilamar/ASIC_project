@@ -1,2 +1,0 @@
-interface tl_dll_intf(input logic clk, input logic rst);
-endinterface
