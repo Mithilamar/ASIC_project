@@ -1,0 +1,13 @@
+C:/VLSI_MATERIAL/PCIe/PCIe_TL_UVC/top.sv {1 {vlog -work work -vopt -sv +incdir+C:/VLSI_MATERIAL/PCIe/PCIe_TL_UVC/src +define+UVM_NO_DPI -stats=none C:/VLSI_MATERIAL/PCIe/PCIe_TL_UVC/top.sv
+QuestaSim vlog 10.4c Compiler 2015.07 Jul 20 2015
+-- Compiling package uvm_pkg
+-- Compiling interface tl_dll_intf
+-- Compiling package top_sv_unit
+-- Importing package uvm_pkg
+-- Compiling interface tl_dll_intf
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}}
